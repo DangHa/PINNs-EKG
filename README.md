@@ -1,1 +1,1 @@
-# PINNs-project
+# PINNs project
